@@ -17,3 +17,61 @@ function marinaraSauce(cookName) {
 
 marinaraSauce("Gabi");
 
+
+function makeANumber () {
+    var myNum = 27;
+    return myNum;
+}
+
+function makeAnInterger() {
+    var myInt = 27;
+    return myInt;
+}
+
+function makeAFloat() {
+    var myFloat = 2.7;
+    return myFloat;
+}
+
+function makeZero() {
+    var zilch = 0;
+    return zilch;
+}
+
+function makeNothing() {
+    var huh;
+    return huh;
+}
+
+function makeBoolean() {
+    var myBool = true;
+    return myBool;
+}
+
+function makeTrue() {
+    var yep = true;
+    return yep;
+}
+
+function makeFalse() {
+    var nope = false;
+    return false;
+}
+
+function makeNull() {
+    var nothingMuch = null;
+    return nothingMuch;
+
+}
+
+function helloClass(){
+    var helloClass = "Hello, Class";
+    return helloClass;
+}
+
+function helloName(name) {
+    return "Hello, " + name + " ! ";
+
+}
+
+
